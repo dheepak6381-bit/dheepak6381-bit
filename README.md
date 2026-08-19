@@ -1,4 +1,4 @@
-﻿<!-- Animated Contribution Graph -->
+<!-- Animated Contribution Graph -->
 <p align="center">
   <img src="github-contribution-animation.svg" alt="GitHub Contribution Graph" width="850"/>
 </p>
@@ -145,6 +145,18 @@
     <td align="center" width="50%" style="border: none; background: none;">
       <a href="https://github.com/dheepak6381-bit/accent-converter">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheepak6381-bit&repo=accent-converter&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <a href="https://github.com/dheepak6381-bit/AI-Quality-Inspection-Conveyor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheepak6381-bit&repo=AI-Quality-Inspection-Conveyor&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <a href="https://github.com/dheepak6381-bit/dheepak_portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheepak6381-bit&repo=dheepak_portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
       </a>
     </td>
   </tr>
