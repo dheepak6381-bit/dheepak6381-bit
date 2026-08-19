@@ -54,20 +54,7 @@ I am a pre-final year **Electronics and Communication Engineering (ECE)** underg
 
 </div>
 
----
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheepak6381-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheepak6381-bit&theme=tokyonight&hide_border=true&background=090d16" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheepak6381-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16" width="48%" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=100&section=footer" width="100%" />
