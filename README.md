@@ -1,61 +1,101 @@
-<!-- Dynamic Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=200&section=header&text=Hi,%20I'm%20S.%20Dheepak!%20%F0%9F%91%8B&fontSize=40&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Edge%20AI%20%7C%20IoT%20Architect&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header Banner" />
-</div>
-
-<!-- Typewriter Effect -->
-<h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%26+IoT+Developer;Edge+AI+%26+Computer+Vision;Robotics+%26+Hardware+Prototyping" alt="Typing SVG" /></a>
-</h2>
-
-<div align="center">
-  <a href="https://dheepak6381-bit.github.io/dheepak_portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Interactive_Portfolio-090d16?style=for-the-badge&logo=react&logoColor=00f2fe" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/dheepak-s-a874bb205/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dheep6381@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
----
-
-### 👨‍💻 About Me
-
-I am a pre-final year **Electronics and Communication Engineering (ECE)** undergraduate with a **Minor in Unmanned Aerial Vehicles (UAVs)** (CGPA: 9.02). I specialize in bridging the gap between low-level hardware design and high-level artificial intelligence.
-
-- 🔬 **Indian Patent Holder:** Developed *PyroSentinel*, an AIoT Forest Fire Early Detection System using PSO-Optimized Mesh Architecture.
-- 📝 **IEEE Author:** Published research on *Adaptive Radiomics-Guided Spatial Clustering Framework for Lung Tumor Segmentation from CT Images*.
-- 🎓 **Leadership:** Public Relations Team Lead at ACM SIGBED Student Chapter.
-- 💬 Ask me about: **Embedded C, STM32, ESP32, Python, IoT, Edge AI**
-
----
-
-### 🛠️ Technical Arsenal
-
+<!-- HERO SECTION -->
 <div align="center">
   
-  **Microcontrollers & Embedded**<br>
-  ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-  ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-  ![Embedded C](https://img.shields.io/badge/-Embedded_C-A8B9CC?style=flat&logo=c&logoColor=black)
+  <h3><strong>Embedded Systems Engineer | Edge AI & Robotics Enthusiast</strong></h3>
+  <p><i>Building smart hardware solutions, AI-powered embedded systems, and robust IoT architectures.</i></p>
 
-  **AI & Computer Vision**<br>
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-  ![Edge AI](https://img.shields.io/badge/-Edge_AI-10b981?style=flat&logo=openai&logoColor=white)
-
-  **IoT & Hardware Tools**<br>
-  ![LoRa](https://img.shields.io/badge/-LoRa_Mesh-FF9900?style=flat&logo=lora&logoColor=white)
-  ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-
+  <p>
+    <a href="mailto:dheepak6381@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/dheepak-s-a874bb205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/dheepak6381-bit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://dheepak6381-bit.github.io/dheepak_portfolio"><img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" /></a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=dheepak6381-bit&color=00f2fe&style=flat-square" alt="Visitor Counter" />
 </div>
 
+<br/>
 
+<!-- ================= ABOUT ME ================= -->
+<h2 align="center">?? About Me</h2>
 
+<table width="100%" border="0">
+<tr>
+<td width="55%" valign="top" style="border: none; background: none;">
+
+### ????? Who am I?
+
+* ?? **B.Tech in Electronics & Communication Engineering (2023�2027)** � Kalasalingam Academy of Research and Education (CGPA: 9.02)
+* ?? **Indian Patent Holder** for *PyroSentinel*, an AIoT Forest Fire Early Detection System.
+* ?? **IEEE Published Author** on Adaptive Radiomics-Guided Spatial Clustering Frameworks.
+* ?? **Embedded Systems & Edge AI Developer** passionate about bridging the gap between low-level hardware and high-level AI.
+* ?? Currently learning **Advanced Computer Vision, Hardware-in-the-Loop (HIL) Validation, and Fog Computing.**
+* ?? **Public Relations Team Lead** @ ACM SIGBED Student Chapter.
+
+<blockquote>
+  <p align="left">
+    <i>"I don't just write code. I engineer systems where hardware and intelligence seamlessly interact to solve real-world problems."</i>
+  </p>
+</blockquote>
+
+</td>
+
+<td width="45%" align="center" valign="middle" style="border: none; background: none;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=250&section=header&text=S.%20Dheepak&fontSize=40&animation=fadeIn&fontAlignY=40&desc=Embedded%20%7C%20IoT%20%7C%20Edge%20AI&descAlignY=60" width="100%" height="auto" alt="Header Graphic"/>
+
+</td>
+</tr>
+</table>
+
+<hr style="border: 1px solid #30363d; background-color: #30363d; height: 1px; margin: 20px 0;" />
+
+---
+
+<!-- ================= TECHNICAL ARSENAL ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=???%20Technical%20Arsenal&fontSize=30&fontColor=ffffff" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LoRa_Mesh-FF9900?style=for-the-badge&logo=lora&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
+
+<!-- ================= HACKATHONS & ACHIEVEMENTS ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=??%20Hackathons%20&%20Achievements&fontSize=30&fontColor=ffffff" width="100%"/>
+</div>
+
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <h3 align="center">Hackathons</h3>
+      <p align="center">
+        ?? <b>Nanochip Hackathon 2025</b> <br> Active Innovator <br><br>
+        ?? <b>EduAIThon 2026</b> <br> GITAM University <br><br>
+        ?? <b>ELECTROTHON 2026</b> <br> Rathinam Technical Campus <br><br>
+        ?? <b>Ideathon 2026</b> <br> PSR Engineering College
+      </p>
+    </td>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <h3 align="center">Awards & Grants</h3>
+      <p align="center">
+        ?? <b>AICTE IIC Regional Meet 2025</b> <br> Shortlisted for YUKTI & APF Grant (Round 2) <br><br>
+        ?? <b>Event Coordinator</b> <br> Embedded Systems Industry Session, NanoChip Solutions <br><br>
+        ?? <b>Event Coordinator</b> <br> Guest Lecture on HDL in VLSI, Elevium
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=100&section=footer" width="100%" />
 </div>
